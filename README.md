@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://github.com/PratikHGhadge/Pratik-s-website/blob/8a84054d8031445776e9ecaa031c6e70fcd2e5c5/img/CSS%20-%20My%20Site%20Images/background.jpg" align="center" style="width: 100%" />
 </div>  
   
 
@@ -65,26 +65,16 @@
   
 
 <br/>  
-
-
   
 
 <br/>  
 
 
- 
-  
+<br/>  
 
 <br/>  
 
-  
-
 <br/>  
-
-  
-
-<br/>  
-
 
 <br />
 
