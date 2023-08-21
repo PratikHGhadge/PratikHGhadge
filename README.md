@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://github.com/PratikHGhadge/Pratik-s-website/blob/8a84054d8031445776e9ecaa031c6e70fcd2e5c5/img/CSS%20-%20My%20Site%20Images/background.jpg" align="center" style="width: 100%" />
-</div>  
+![Pratik](https://github.com/PratikHGhadge/PratikHGhadge/assets/93422248/c337ab43-66ac-4757-94e3-7b92e4ee40ae)
   
 
 ### <div align="center">I'm Pratik, a computer engineering student👨‍💻 studying  at VPKBIET 🚀</div>  
