@@ -2,7 +2,7 @@
 
  
 <div align="center">
-   <h1>Hi there, I'm <a href="https://github.com/PratikHGhadge">Pratik</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+   <h1>Hi there, I'm <a href="https://hemant.codes">Pratik</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 
 <div align="center">
@@ -76,5 +76,8 @@
 </p>
 </div>
 
+<div align='center'  style="display: flex; justify-content: center; margin:4px">
 
-<div align='center'  style="display: flex; justify-content: center; margin:4px">![Pratik's github stats](https://github-readme-stats.vercel.app/api?username=PratikHGhadge&show_icons=true&theme=tokyonight) ![Pratik GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PratikHGhadge&theme=tokyonight)</div>
+![Pratik's github stats](https://github-readme-stats.vercel.app/api?username=PratikHGhadge&show_icons=true&theme=tokyonight) ![Pratik GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PratikHGhadge&theme=tokyonight)
+
+</div>
