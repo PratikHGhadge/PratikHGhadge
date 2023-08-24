@@ -76,8 +76,7 @@
 </p>
 </div>
 
-<div align='center'  style="display: flex; justify-content: center; margin:4px">
-
+<div display: grid; grid-template-columns: 1fr 1fr;  gap: 10px;">
 ![Pratik's github stats](https://github-readme-stats.vercel.app/api?username=PratikHGhadge&show_icons=true&theme=tokyonight) ![Pratik GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PratikHGhadge&theme=tokyonight)
 
 </div>
