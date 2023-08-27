@@ -76,8 +76,17 @@
 </p>
 </div>
 
-<div align='center'  style="display: flex; justify-content: center; margin:4px">
 
-![Pratik's github stats](https://github-readme-stats.vercel.app/api?username=PratikHGhadge&show_icons=true&theme=tokyonight) ![Pratik GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PratikHGhadge&theme=tokyonight)
 
-</div>
+
+ <h2 style="margin-: 0;" align='left' > 🤖 Github Stats  </h2>
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=PratikHGhadge&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratikHGhadge&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>
+<br />
