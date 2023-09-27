@@ -35,8 +35,8 @@
 <Br>
   
 <div style="display: flex; justify-content: center; margin:4px">
-  <a style="margin-right:4px" href="https://github.com/PratikHGhadge/Blood-Bank-App.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PratikHGhadge&repo=Blood-Bank-App" alt="Blood-Bank-App Repo" />
+  <a style="margin-right:4px" href="https://github.com/PratikHGhadge/MsIndustries">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PratikHGhadge&repo=MsIndustries" alt="MsIndustries" />
   </a>
   <a style="margin-left:4px " href="https://github.com/PratikHGhadge/Prime-delivery-Ecommerce-web-app.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=PratikHGhadge&repo=Prime-delivery-Ecommerce-web-app" alt="Prime-delivery-Ecommerce-web-app  Repo" />
