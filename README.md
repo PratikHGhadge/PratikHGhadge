@@ -12,7 +12,7 @@
   <table style="border-collapse: collapse;">
     <tr>
       <td style="padding: 8px 16px; text-align: center;">👨‍💻</td>
-      <td style="padding: 8px 16px; text-align: left;">Currently working on web development technologies like JavaScript, React, Nextjs etc.</td>
+      <td style="padding: 8px 16px; text-align: left;">Currently working on technologies like JavaScript, React, Nextjs etc.</td>
     </tr>
     <tr>
       <td style="padding: 8px 16px; text-align: center;">📚</td>
