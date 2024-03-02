@@ -35,11 +35,11 @@
 <Br>
   
 <div style="display: flex; justify-content: center; margin:4px">
-  <a style="margin-right:4px" href="https://github.com/PratikHGhadge/MsIndustries">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PratikHGhadge&repo=MsIndustries" alt="MsIndustries" />
+  <a style="margin-right:4px" href="https://github.com/PratikHGhadge/MS-Industrie-Management-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PratikHGhadge&repo=MS-Industrie-Management-System" alt="MsIndustries" />
   </a>
-  <a style="margin-left:4px " href="https://github.com/PratikHGhadge/Prime-delivery-Ecommerce-web-app.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PratikHGhadge&repo=Prime-delivery-Ecommerce-web-app" alt="Prime-delivery-Ecommerce-web-app  Repo" />
+  <a style="margin-left:4px " href="https://github.com/PratikHGhadge/Twitter-Clone">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PratikHGhadge&repo=Twitter-Clone" alt="Twitter-Clone" />
   </a>
  
 </div>
