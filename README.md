@@ -12,11 +12,11 @@
   <table style="border-collapse: collapse;">
     <tr>
       <td style="padding: 8px 16px; text-align: center;">👨‍💻</td>
-      <td style="padding: 8px 16px; text-align: left;">Currently working on technologies like JavaScript, React, Nextjs etc.</td>
+      <td style="padding: 8px 16px; text-align: left;">Currently working on technologies like Swift, UIKit, and Combine etc.</td>
     </tr>
     <tr>
       <td style="padding: 8px 16px; text-align: center;">📚</td>
-      <td style="padding: 8px 16px; text-align: left;">Learning everything about Frontend and Backend technologies 😅</td>
+      <td style="padding: 8px 16px; text-align: left;">Learning everything about iOS development 😅</td>
     </tr>
     <tr>
       <td style="padding: 8px 16px; text-align: center;">💪🏼</td>
@@ -24,7 +24,7 @@
     </tr>
     <tr>
       <td style="padding: 8px 16px; text-align: center;">💬</td>
-      <td style="padding: 8px 16px; text-align: left;">Ask me about Java, javascript, mern stack devlopment</td>
+      <td style="padding: 8px 16px; text-align: left;">Ask me about ios development, javascript, mern stack devlopment</td>
     </tr>
   </table>
 </div>
