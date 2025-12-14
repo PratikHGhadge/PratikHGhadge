@@ -51,20 +51,82 @@
 <h2 align="center">Languages and Tools</h2>
 
 <p align="center">
- <a href="https://www.java.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a><a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://www.mysql.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-</a><a href="https://tailwindcss.com" target="_blank">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/></a><a href="https://reactrouter.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React Router DOM" width="40" height="40"/>
-</a><a href="https://redux-toolkit.js.org" target="_blank">
-  <img src="https://redux-toolkit.js.org/img/redux.svg" alt="React Redux Toolkit" width="40" height="40"/></a><a href="https://github.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/></a><a href="https://jwt.io" target="_blank"><img src="https://jwt.io/img/pic_logo.svg" alt="JWT" width="40" height="40"/></a><a href="https://wordpress.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40"/></a><!-- Visual Studio Code (VS Code) --><a href="https://code.visualstudio.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40"/>
-</a><!-- IntelliJ IDEA --><a href="https://www.jetbrains.com/idea/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40"/>
-</a><!-- Jupyter Notebook --><a href="https://jupyter.org" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter Notebook" width="40" height="40"/>
-</a><!-- MongoDB Compass --><a href="https://www.mongodb.com/products/compass" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB Compass" width="40" height="40"/>
+
+<!-- iOS / Apple -->
+<a href="https://developer.apple.com/swift/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/>
 </a>
- </p>
+<a href="https://developer.apple.com/xcode/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg" alt="Xcode" width="40" height="40"/>
+</a>
+<a href="https://developer.apple.com/documentation/swiftui" target="_blank">
+  <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" alt="SwiftUI" width="40" height="40"/>
+</a>
+<a href="https://developer.apple.com/documentation/uikit" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="UIKit" width="40" height="40"/>
+</a>
+<a href="https://developer.apple.com/documentation/combine" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="Combine" width="40" height="40"/>
+</a>
+<a href="https://developer.apple.com/av-foundation/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="AVFoundation" width="40" height="40"/>
+</a>
+<a href="https://developer.apple.com/documentation/xctest" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="XCTest" width="40" height="40"/>
+</a>
+
+<!-- Programming Languages -->
+<a href="https://www.java.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+</a>
+<a href="https://www.python.org" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+</a>
+
+<!-- Web / Backend -->
+<a href="https://reactjs.org" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+</a>
+<a href="https://redux-toolkit.js.org" target="_blank">
+  <img src="https://redux-toolkit.js.org/img/redux.svg" alt="Redux Toolkit" width="40" height="40"/>
+</a>
+<a href="https://nodejs.org" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+</a>
+
+<!-- Databases -->
+<a href="https://www.mongodb.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+</a>
+<a href="https://www.mysql.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+</a>
+
+<!-- Tools -->
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+</a>
+<a href="https://github.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+</a>
+<a href="https://postman.com" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+</a>
+<a href="https://code.visualstudio.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+</a>
+<a href="https://www.jetbrains.com/idea/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40"/>
+</a>
+<a href="https://www.linux.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+</a>
+
+</p>
+
 
 </div >
 <div>
