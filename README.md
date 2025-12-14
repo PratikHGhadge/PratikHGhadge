@@ -35,11 +35,11 @@
 <Br>
   
 <div style="display: flex; justify-content: center; margin:4px">
-  <a style="margin-right:4px" href="https://github.com/PratikHGhadge/MS-Industrie-Management-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PratikHGhadge&repo=MS-Industrie-Management-System" alt="MsIndustries" />
+  <a style="margin-right:4px" href="https://github.com/PratikHGhadge/StayFit360">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PratikHGhadge&repo=StayFit360" alt="StayFit360" />
   </a>
-  <a style="margin-left:4px " href="https://github.com/PratikHGhadge/Twitter-Clone">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PratikHGhadge&repo=Twitter-Clone" alt="Twitter-Clone" />
+  <a style="margin-left:4px " href="https://github.com/PratikHGhadge/BloodBank-iOS-App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PratikHGhadge&repo=BloodBank-iOS-App" alt="BloodBank-iOS-App" />
   </a>
  
 </div>
