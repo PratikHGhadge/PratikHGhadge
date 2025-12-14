@@ -63,16 +63,16 @@
   <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" alt="SwiftUI" width="40" height="40"/>
 </a>
 <a href="https://developer.apple.com/documentation/uikit" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="UIKit" width="40" height="40"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-uikit-icon-svg-download-png-2945278.png?f=webp&w=512" alt="UIKit" width="40" height="40"/>
 </a>
 <a href="https://developer.apple.com/documentation/combine" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="Combine" width="40" height="40"/>
 </a>
 <a href="https://developer.apple.com/av-foundation/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="AVFoundation" width="40" height="40"/>
+  <img src="https://developer.apple.com/assets/elements/icons/avfoundation/avfoundation-128x128_2x.png" alt="AVFoundation" width="40" height="40"/>
 </a>
 <a href="https://developer.apple.com/documentation/xctest" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="XCTest" width="40" height="40"/>
+  <img src="https://blog.scottlogic.com/cbrown/assets/xctest-logo.jpg" alt="XCTest" width="40" height="40"/>
 </a>
 
 <!-- Programming Languages -->
